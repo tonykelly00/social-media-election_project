@@ -1,6 +1,6 @@
 
 #data/
-
+figs/
 #credential files
 *_creds.json
 
